@@ -49,7 +49,7 @@ The code should also be modified using your local network's (WiFi) AP name and p
 Then the LEDs can be controlled using the web interface accessible using a web browser using the IP address of the ESP8266 board after it has been connected to your network.
 
 ## The web interface
-![Web Interface Demo](https://i.imgur.com/0BISHN9.gif)
+![Web Interface Demo](https://i.imgur.com/Z19OZIL.gif)
 
 The web interface is how you can control the LED colors, gradients, and animations of the LEDs. The interface is pretty self-explanatory, however, some of the logic behind it might be useful to explain for modification purposes. All of the HTML, CSS, and JavaScript for the web app can be found in the [index.h](https://github.com/AlfredoSequeida/hello-world/blob/main/ESP8266/LEDController/index.h) file.
 
