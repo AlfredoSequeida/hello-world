@@ -10,7 +10,7 @@ The model for this design was made using openSCAD. Each letter is meant to be pr
 
 Every model also has an insert, which is a very thin copy of the letter with half the laying down height which serves as both a cover and a light defuser for the LEDs:
 
-![Insert Demo](https://i.imgur.com/xB9G1fU.gif)
+![Insert Demo](https://i.imgur.com/LD4Ne2f.gif)
 
 The inserts fit snug into the letters with a 0.5mm gap, however, you might want to use some sandpaper or a file to create a little more room for letters like the "e", "o", and "d", which have center cutouts since those parts might be a bit more difficult to fit easily.
 
