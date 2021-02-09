@@ -38,6 +38,8 @@ The following parts (electrical components) were used for this build:
 - [DC Female adapter](https://www.amazon.com/Ksmile®-Female-2-1x5-5mm-Adapter-Connector/dp/B015OCV5Y8)
 - Wire, soldering iron, solder, shrink tube, and connectors to put everything together. With the exception of the wiring, the other parts are optional but recommended.
 
+Included in the assets directory are SVG [schematics](https://github.com/AlfredoSequeida/hello-world/blob/main/assets/schematics.svg) for putting the parts together and [mechanical drawings](https://github.com/AlfredoSequeida/hello-world/blob/main/assets/mechanical_drawings.svg) for the parts. Since they are SVG files, you can open them using a vector editing program like [inkscape](https://inkscape.org/) or a modern web browser and zoom in very close without losing detail.
+
 ## The software
 The software is controlled via the web interface hosted by the server on the ESP8266 board. To get the software on the board, it needs to be compiled and uploaded to the board using the [Arduino IDE](https://github.com/arduino/Arduino) or [arduino-cli](https://github.com/arduino/arduino-cli). To do this, you must install the [ESP8266 core for Arduino](https://github.com/esp8266/Arduino) and these other dependencies not included with the ESP8266 core:
 
