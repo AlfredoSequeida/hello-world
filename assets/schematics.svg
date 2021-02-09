@@ -217,9 +217,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51618386"
-     inkscape:cx="1140.974"
-     inkscape:cy="1275.9435"
+     inkscape:zoom="12.386673"
+     inkscape:cx="170.72566"
+     inkscape:cy="1029.5394"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -491,9 +491,9 @@
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;stroke:#00ff25;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 807.44048,414.78946 c 0,0 1.961,-17.80349 0.84915,-34.43355 -0.72804,-10.88935 -5.5797,-21.59245 -3.38531,-25.36062"
+       d="m 807.44048,414.78946 c 0,0 3.56602,-19.04148 2.45417,-35.67154"
        id="path2459"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="cc" />
     <g
        aria-label="d5"
        id="text2453-0"
@@ -610,6 +610,39 @@
        style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 872.68067,265.43568 c 0,0 3.2781,16.23232 2.81386,42.89813"
        id="path2555"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:2"
+       id="rect1172"
+       width="3.5578816"
+       height="11.96893"
+       x="808.09131"
+       y="367.13275"
+       ry="1.7789408" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.40872px;line-height:1.25;font-family:'Komika Axis';-inkscape-font-specification:'Komika Axis';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-377.29996"
+       y="811.31592"
+       id="text1176"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1174"
+         x="-377.29996"
+         y="811.31592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';stroke-width:0.264583">300Ω-500Ω</tspan></text>
+    <path
+       d="m 808.93221,376.28642 v -1.58461 l -0.5282,-0.2641 1.0564,-0.52819 -1.0564,-0.52821 1.0564,-0.5282 -1.0564,-0.52821 1.0564,-0.52819 -0.5282,-0.2641 V 369.948"
+       stroke="#000000"
+       stroke-width="0.264582"
+       stroke-linejoin="bevel"
+       fill="none"
+       id="path1371"
+       style="stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#00ff25;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 809.91221,367.17049 c 0,0 0.0996,-7.06771 -5.00789,-12.1752"
+       id="path1972"
        sodipodi:nodetypes="cc" />
   </g>
 </svg>
