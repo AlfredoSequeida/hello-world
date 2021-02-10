@@ -32,9 +32,9 @@ In the build for the video, this model was printed using a [Creality Ender3 V2](
 
 ## The Parts used
 The following parts (electrical components) were used for this build:
-- (1) [WS2812B LED Strip 5m 60leds/m](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG)
+- (3) [WS2812B LED Strip 5m 60leds/m](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG)
 - (1) [LOL1n/NodeMCU V3 (ESP8266E) board](https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010N1SPRK)
-- (1) [LM2596S DC-DC 3A Buck Adjustable Step-down Power Supply Converter Module](https://www.amazon.com/Adjustable-Converter-1-5-35v-Efficiency-Regulator/dp/B07QKHR6PY)
+- (1) [LM2596S DC-DC 3A Buck Adjustable Step-down Power Supply Converter Module](https://www.amazon.com/Adjustable-Converter-1-5-35v-Efficiency-Regulator/dp/B07QKHR6PY) Used to step down the voltage to 5V if using a power supply larger than 5V.
 - (1) [DC Female adapter](https://www.amazon.com/Ksmile®-Female-2-1x5-5mm-Adapter-Connector/dp/B015OCV5Y8)
 - (1) [300 - 500 ohm resistor or combination of resistors to make the needed sum](https://www.amazon.com/Elegoo-Values-Resistor-Assortment-Compliant/dp/B072BL2VX1) To protect the first LED when controlling the strip.
 - Wire, soldering iron, solder, shrink tube, and connectors to put everything together. With the exception of the wiring, the other parts are optional but recommended.
