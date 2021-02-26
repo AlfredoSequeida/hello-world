@@ -1,6 +1,9 @@
 [Check out the video!](https://youtu.be/ratVGRWkmX0)
 
 # Hello world!
+
+![Hello world image demo](https://i.imgur.com/oeGfzO7.jpg)
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This is a 3d printed "hello world!" sign powered by the L0L1n/NodeMCU V3 board, which hosts the ESP8266E board. All of the code, schematics, openSCAD (3D model), and mechanical drawings for the project are open-source for you to modify however you want.
