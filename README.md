@@ -1,4 +1,4 @@
-[Check out the video!](https://youtube.com/alfredosequeida)
+[Check out the video!](https://youtu.be/ratVGRWkmX0)
 
 # Hello world!
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
