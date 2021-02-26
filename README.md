@@ -28,7 +28,7 @@ If the size is adjusted, the position of the LED pass through-holes should be mo
 The strange adding and subtracting of magical numbers in the measurements is due to the way the walls were created with [openSCAD'S Minkowski method](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#minkowski).
 
 ## Printing the model
-In the build for the video, this model was printed using a [Creality Ender3 V2](https://www.amazon.com/Creality-Meanwell-Motherboard-Carborundum-Platform/dp/B08D65ZH5W) with an extruder temperature of 225°C and base temperature of 70°C. Using 5% infill with a wall height of 0.28mm using white Inland PLA+. Each Letter took a maximum of 13 hours to print and each insert took about 2.5 hours to print.
+In the build for the video, this model was printed using a [Creality Ender3 V2](https://www.amazon.com/Creality-Meanwell-Motherboard-Carborundum-Platform/dp/B08D65ZH5W) with an extruder temperature of 225°C and base temperature of 70°C. Using 5% infill with a wall height of 0.28mm using white Inland PLA+. Each Letter took a maximum of 20 hours to print (the w took the longest time)and each insert took about 3 hours to print.
 
 ## The Parts used
 The following parts (electrical components) were used for this build:
